@@ -1,0 +1,86 @@
+[2023-11-03T03:08:56.942Z] info server running on port 3000
+[2023-11-03T03:10:13.241Z] info enter the endpoint GetUsers
+[2023-11-03T03:10:13.327Z] info Get List Users
+[2023-11-03T03:11:57.561Z] info enter the endpoint registerUser
+[2023-11-03T03:11:57.602Z] info User registed successfully
+[2023-11-03T03:14:38.940Z] info enter the endpoint login
+[2023-11-03T03:14:38.973Z] info correct credentials, seccion iniciada
+[2023-11-03T03:17:06.319Z] info enter the endpoint GetUsers
+[2023-11-03T03:17:06.350Z] info Get List Users
+[2023-11-03T03:18:12.875Z] info enter the endpoint getProducts
+[2023-11-03T03:18:13.015Z] info Get list products
+[2023-11-03T03:18:56.768Z] info enter the endpoint getOneProducts
+[2023-11-03T03:18:56.798Z] info Get a products him info
+[2023-11-03T03:19:44.481Z] info enter the endpoint getPurchases
+[2023-11-03T03:19:44.521Z] info Get list all Purchases
+[2023-11-03T03:21:05.546Z] info enter the endpoint registerProduct
+[2023-11-03T03:21:05.689Z] info Product registed successfully
+[2023-11-03T03:22:11.931Z] info enter the endpoint updateProduct
+[2023-11-03T03:22:11.962Z] info Product updated successfully
+[2023-11-03T03:22:48.914Z] info enter the endpoint deleteProduct
+[2023-11-03T03:22:48.951Z] info Error deleteProduct: SequelizeForeignKeyConstraintError: update o delete en «products» viola la llave foránea «purchasesdetails_fk_id_product_purchasedetail_fkey» en la tabla «purchasesdetails»
+[2023-11-03T03:22:56.936Z] info enter the endpoint getProducts
+[2023-11-03T03:22:56.937Z] info Get list products
+[2023-11-03T03:23:05.639Z] info enter the endpoint deleteProduct
+[2023-11-03T03:23:05.640Z] info Error deleteProduct: SequelizeForeignKeyConstraintError: update o delete en «products» viola la llave foránea «purchasesdetails_fk_id_product_purchasedetail_fkey» en la tabla «purchasesdetails»
+[2023-11-03T03:24:40.616Z] info server running on port 3000
+[2023-11-03T03:24:45.735Z] info enter the endpoint deleteProduct
+[2023-11-03T03:24:45.819Z] info Error deleteProduct: SequelizeForeignKeyConstraintError: update o delete en «products» viola la llave foránea «purchasesdetails_fk_id_product_purchasedetail_fkey» en la tabla «purchasesdetails»
+[2023-11-03T03:25:33.319Z] info enter the endpoint getPurchases
+[2023-11-03T03:25:33.362Z] info Get list all Purchases
+[2023-11-03T03:25:49.687Z] info enter the endpoint deleteProduct
+[2023-11-03T03:25:49.720Z] info Product deleted successfully
+[2023-11-03T03:25:54.879Z] info server running on port 3000
+[2023-11-03T03:27:20.517Z] info server running on port 3000
+[2023-11-03T03:27:26.173Z] info server running on port 3000
+[2023-11-03T03:27:33.688Z] info server running on port 3000
+[2023-11-03T03:27:34.943Z] info server running on port 3000
+[2023-11-03T03:27:45.722Z] info server running on port 3000
+[2023-11-03T03:28:08.854Z] info server running on port 3000
+[2023-11-03T03:28:10.774Z] info server running on port 3000
+[2023-11-03T03:30:21.596Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T03:30:21.688Z] info Get list purchases products by user
+[2023-11-03T03:31:16.901Z] info enter the endpoint getInvoice
+[2023-11-03T03:31:16.937Z] info Get purchase invoid
+[2023-11-03T03:32:26.299Z] info enter the endpoint registerPurchase
+[2023-11-03T03:32:26.334Z] info Purchase registed successfully
+[2023-11-03T03:32:26.337Z] info Product purchase registed successfully
+[2023-11-03T03:32:26.339Z] info Product purchase registed successfully
+[2023-11-03T04:24:57.230Z] info server running on port 3000
+[2023-11-03T04:25:22.118Z] info enter the endpoint login
+[2023-11-03T04:25:22.208Z] info correct credentials, seccion iniciada
+[2023-11-03T04:25:27.725Z] info enter the endpoint GetUsers
+[2023-11-03T04:25:27.727Z] info Get List Users
+[2023-11-03T04:25:29.605Z] info enter the endpoint getOneProducts
+[2023-11-03T04:25:29.609Z] info Get a products him info
+[2023-11-03T04:25:32.836Z] info enter the endpoint getPurchases
+[2023-11-03T04:25:32.846Z] info Get list all Purchases
+[2023-11-03T04:25:34.676Z] info enter the endpoint getOneProducts
+[2023-11-03T04:25:34.678Z] info Get a products him info
+[2023-11-03T04:25:36.469Z] info enter the endpoint registerProduct
+[2023-11-03T04:25:36.473Z] info Product registed successfully
+[2023-11-03T04:25:38.198Z] info enter the endpoint updateProduct
+[2023-11-03T04:25:38.200Z] info Product updated successfully
+[2023-11-03T04:25:40.607Z] info enter the endpoint deleteProduct
+[2023-11-03T04:25:40.609Z] info Product deleted successfully
+[2023-11-03T04:25:44.683Z] info enter the endpoint deleteProduct
+[2023-11-03T04:25:44.685Z] info Product deleted successfully
+[2023-11-03T04:25:48.137Z] info enter the endpoint deleteProduct
+[2023-11-03T04:25:48.139Z] info Product deleted successfully
+[2023-11-03T04:26:00.704Z] info enter the endpoint deleteProduct
+[2023-11-03T04:26:00.791Z] info Error deleteProduct, "Possibly it is because the product is in the purchasing tables": -----SequelizeForeignKeyConstraintError: update o delete en «products» viola la llave foránea «purchasesdetails_fk_id_product_purchasedetail_fkey» en la tabla «purchasesdetails»
+[2023-11-03T04:26:06.830Z] info enter the endpoint deleteProduct
+[2023-11-03T04:26:06.831Z] info Product deleted successfully
+[2023-11-03T04:26:19.361Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T04:26:19.394Z] info Get list purchases products by user
+[2023-11-03T04:26:23.208Z] info enter the endpoint getInvoice
+[2023-11-03T04:26:23.212Z] info Get purchase invoid
+[2023-11-03T04:26:27.685Z] info enter the endpoint registerPurchase
+[2023-11-03T04:26:27.727Z] info Purchase registed successfully
+[2023-11-03T04:26:27.729Z] info Product purchase registed successfully
+[2023-11-03T04:26:27.731Z] info Product purchase registed successfully
+[2023-11-03T04:26:35.862Z] info enter the endpoint login
+[2023-11-03T04:26:35.864Z] info correct credentials, seccion iniciada
+[2023-11-03T04:27:52.846Z] info server running on port 3000
+[2023-11-03T04:27:59.462Z] info enter the endpoint GetUsers
+[2023-11-03T04:27:59.652Z] info Get List Users
