@@ -40,10 +40,16 @@ export async function getPurchases(req, res) {
         });
         // logger control proccess
         logger.info('Get list all Purchases');
-        // I return the json with the message I want
-        return res.json({
-            data: allPurchases
-        });
+        // I validate product > 0, id exists in BD
+        if (allPurchases.length > 0) {
+            // I return the json with the message I want
+            return res.json({
+                data: allPurchases
+            });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
+        }
     } catch (e) {
         // logger control proccess
         logger.info('Error getPurchases: ' + e);
@@ -61,11 +67,32 @@ export async function registerPurchase(req, res) {
     logger.info('enter the endpoint registerPurchase');
     // I extract the values that are sent in the json req
     const { fk_id_user_purchase, total_price_purchase, products } = req.body;
+    // I validate req correct json
+    if (!fk_id_user_purchase || !total_price_purchase || !products) return res.sendStatus(400);
     // I execute my code in a try catch
     try {
         // I validate not empty JSON products
         if (!products || !Array.isArray(products)) {
             return res.status(400).json({ message: 'Not found Products' });
+        }
+        // I call and save the result of the findOne method, which is d sequelize
+        const userExist = await User.findAll({
+            where: {
+                id_user: fk_id_user_purchase
+            }
+        });
+        // I validate user exists
+        if (userExist.length < 1) return res.status(404).json({message: 'The user you are trying to enter do not exist.'});
+        // Register the product arrangement to validate if all shipped products exist in database.
+        for (const product of products) {
+            // I call and save the result of the findOne method, which is d sequelize i validate if products exists on BD
+            const ProductExist = await Product.findAll({
+                where: {
+                    id_product: product.id_product
+                }
+            });
+            // I validate user exists
+            if (ProductExist.length < 1) return res.status(404).json({message: 'Some or all of the products you are trying to enter do not exist.'});
         }
         // I declare the create method with its respective definition of the object and my Product model in a variable taking into account the await
         let newPurchase = await Purchase.create({
@@ -118,7 +145,7 @@ export async function registerPurchase(req, res) {
         res.status(500).json({
             message: 'Something goes wrong',
             data: {}
-        })
+        });
     }
 }
 
@@ -209,10 +236,16 @@ export async function getInvoice(req, res) {
         });
         // logger control proccess
         logger.info('Get purchase invoid');
-        // I return the json with the message I want
-        return res.json({
-            data: invoice
-        });
+        // I validate product > 0, id exists in BD
+        if (invoice.length > 0) {
+            // I return the json with the message I want
+            return res.json({
+                data: invoice
+            });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
+        }
     } catch (e) {
         // logger control proccess
         logger.info('Error getInvoice: ' + e);

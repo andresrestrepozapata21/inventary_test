@@ -931,3 +931,181 @@
 [2023-11-03T07:07:15.867Z] info enter the endpoint getPurchases
 [2023-11-03T07:07:15.886Z] info Get list all Purchases
 [2023-11-03T07:08:06.845Z] info server running on port 3000
+[2023-11-03T07:15:24.143Z] info enter the endpoint GetUsers
+[2023-11-03T07:15:24.263Z] info Get List Users
+[2023-11-03T07:15:24.300Z] info enter the endpoint registerUser
+[2023-11-03T07:15:24.314Z] info User registed successfully
+[2023-11-03T07:15:24.327Z] info enter the endpoint registerUser
+[2023-11-03T07:15:24.342Z] info enter the endpoint registerUser
+[2023-11-03T07:15:24.356Z] info enter the endpoint registerUser
+[2023-11-03T07:15:24.372Z] info enter the endpoint registerUser
+[2023-11-03T07:15:24.388Z] info enter the endpoint login
+[2023-11-03T07:15:24.400Z] info correct credentials, seccion iniciada
+[2023-11-03T07:15:24.416Z] info enter the endpoint login
+[2023-11-03T07:15:24.433Z] info enter the endpoint login
+[2023-11-03T07:15:24.450Z] info enter the endpoint login
+[2023-11-03T07:15:24.471Z] info enter the endpoint getProducts
+[2023-11-03T07:15:24.484Z] info Get list products
+[2023-11-03T07:15:24.501Z] info enter the endpoint getOneProducts
+[2023-11-03T07:15:24.510Z] info Get a products him info
+[2023-11-03T07:15:24.526Z] info enter the endpoint registerProduct
+[2023-11-03T07:15:24.535Z] info Product registed successfully
+[2023-11-03T07:15:24.550Z] info enter the endpoint registerProduct
+[2023-11-03T07:15:24.566Z] info enter the endpoint registerProduct
+[2023-11-03T07:15:24.583Z] info enter the endpoint registerProduct
+[2023-11-03T07:15:24.600Z] info enter the endpoint registerProduct
+[2023-11-03T07:15:24.615Z] info enter the endpoint updateProduct
+[2023-11-03T07:15:24.623Z] info Product updated successfully
+[2023-11-03T07:15:24.638Z] info enter the endpoint updateProduct
+[2023-11-03T07:15:24.654Z] info enter the endpoint updateProduct
+[2023-11-03T07:15:24.669Z] info enter the endpoint updateProduct
+[2023-11-03T07:15:24.685Z] info enter the endpoint updateProduct
+[2023-11-03T07:15:24.713Z] info enter the endpoint deleteProduct
+[2023-11-03T07:15:24.722Z] info Product deleted successfully
+[2023-11-03T07:15:24.764Z] info enter the endpoint getPurchases
+[2023-11-03T07:15:24.784Z] info Get list all Purchases
+[2023-11-03T07:16:20.664Z] info server running on port 3000
+[2023-11-03T07:16:40.691Z] info enter the endpoint getPurchases
+[2023-11-03T07:16:40.787Z] info Get list all Purchases
+[2023-11-03T07:17:15.946Z] info server running on port 3000
+[2023-11-03T07:17:25.518Z] info server running on port 3000
+[2023-11-03T07:18:23.621Z] info server running on port 3000
+[2023-11-03T07:18:42.949Z] info server running on port 3000
+[2023-11-03T07:18:44.018Z] info server running on port 3000
+[2023-11-03T07:18:52.467Z] info server running on port 3000
+[2023-11-03T07:19:55.217Z] info server running on port 3000
+[2023-11-03T07:20:02.756Z] info server running on port 3000
+[2023-11-03T07:20:09.095Z] info server running on port 3000
+[2023-11-03T07:21:08.213Z] info server running on port 3000
+[2023-11-03T07:21:27.731Z] info server running on port 3000
+[2023-11-03T07:22:35.060Z] info server running on port 3000
+[2023-11-03T07:22:38.840Z] info server running on port 3000
+[2023-11-03T07:22:41.371Z] info server running on port 3000
+[2023-11-03T07:22:47.369Z] info server running on port 3000
+[2023-11-03T07:23:05.865Z] info enter the endpoint registerPurchase
+[2023-11-03T07:23:05.951Z] info Purchase registed successfully
+[2023-11-03T07:23:05.955Z] info Product purchase registed successfully
+[2023-11-03T07:23:05.956Z] info Product purchase registed successfully
+[2023-11-03T07:23:15.937Z] info enter the endpoint registerPurchase
+[2023-11-03T07:23:15.939Z] info Purchase registed successfully
+[2023-11-03T07:23:15.941Z] info Product purchase registed successfully
+[2023-11-03T07:23:15.942Z] info Product purchase registed successfully
+[2023-11-03T07:23:35.405Z] info enter the endpoint registerPurchase
+[2023-11-03T07:23:35.541Z] info Error registerPurchase: SequelizeForeignKeyConstraintError: inserción o actualización en la tabla «purchases» viola la llave foránea «purchases_fk_id_user_purchase_fkey»
+[2023-11-03T07:23:40.853Z] info enter the endpoint registerPurchase
+[2023-11-03T07:23:40.896Z] info Purchase registed successfully
+[2023-11-03T07:23:40.899Z] info Product purchase registed successfully
+[2023-11-03T07:23:40.901Z] info Product purchase registed successfully
+[2023-11-03T07:24:38.757Z] info server running on port 3000
+[2023-11-03T07:25:57.414Z] info server running on port 3000
+[2023-11-03T07:26:05.274Z] info enter the endpoint getInvoice
+[2023-11-03T07:26:05.365Z] info Get purchase invoid
+[2023-11-03T07:26:05.366Z] info Error getInvoice: ReferenceError: history is not defined
+[2023-11-03T07:26:11.837Z] info enter the endpoint getInvoice
+[2023-11-03T07:26:11.841Z] info Get purchase invoid
+[2023-11-03T07:26:11.842Z] info Error getInvoice: ReferenceError: history is not defined
+[2023-11-03T07:27:06.482Z] info server running on port 3000
+[2023-11-03T07:27:07.080Z] info enter the endpoint getInvoice
+[2023-11-03T07:27:07.171Z] info Get purchase invoid
+[2023-11-03T07:27:10.273Z] info enter the endpoint getInvoice
+[2023-11-03T07:27:10.279Z] info Get purchase invoid
+[2023-11-03T07:27:14.592Z] info enter the endpoint getInvoice
+[2023-11-03T07:27:14.596Z] info Get purchase invoid
+[2023-11-03T07:28:24.208Z] info server running on port 3000
+[2023-11-03T07:28:35.510Z] info server running on port 3000
+[2023-11-03T07:28:37.977Z] info server running on port 3000
+[2023-11-03T07:28:43.383Z] info server running on port 3000
+[2023-11-03T07:29:21.809Z] info server running on port 3000
+[2023-11-03T07:29:33.271Z] info server running on port 3000
+[2023-11-03T07:29:42.618Z] info server running on port 3000
+[2023-11-03T07:29:53.357Z] info server running on port 3000
+[2023-11-03T07:30:20.323Z] info server running on port 3000
+[2023-11-03T07:30:22.017Z] info server running on port 3000
+[2023-11-03T07:30:30.264Z] info enter the endpoint registerPurchase
+[2023-11-03T07:30:30.463Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:30:36.575Z] info enter the endpoint registerPurchase
+[2023-11-03T07:30:36.577Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:30:42.695Z] info enter the endpoint registerPurchase
+[2023-11-03T07:30:42.696Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:30:46.168Z] info enter the endpoint registerPurchase
+[2023-11-03T07:30:46.169Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:31:25.260Z] info server running on port 3000
+[2023-11-03T07:31:33.877Z] info server running on port 3000
+[2023-11-03T07:31:42.452Z] info server running on port 3000
+[2023-11-03T07:31:52.320Z] info server running on port 3000
+[2023-11-03T07:31:54.236Z] info enter the endpoint registerPurchase
+[2023-11-03T07:31:54.318Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:32:00.509Z] info server running on port 3000
+[2023-11-03T07:32:00.724Z] info enter the endpoint registerPurchase
+[2023-11-03T07:32:00.908Z] info Purchase registed successfully
+[2023-11-03T07:32:00.911Z] info Product purchase registed successfully
+[2023-11-03T07:32:00.913Z] info Product purchase registed successfully
+[2023-11-03T07:32:04.350Z] info server running on port 3000
+[2023-11-03T07:32:08.561Z] info server running on port 3000
+[2023-11-03T07:32:21.752Z] info server running on port 3000
+[2023-11-03T07:32:22.912Z] info enter the endpoint registerPurchase
+[2023-11-03T07:32:22.996Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:32:30.082Z] info server running on port 3000
+[2023-11-03T07:32:30.727Z] info enter the endpoint registerPurchase
+[2023-11-03T07:32:30.809Z] info Error registerPurchase: SequelizeDatabaseError: no existe la columna users.fk_id_user_purchase
+[2023-11-03T07:33:00.138Z] info server running on port 3000
+[2023-11-03T07:33:03.305Z] info server running on port 3000
+[2023-11-03T07:33:04.172Z] info enter the endpoint registerPurchase
+[2023-11-03T07:33:04.172Z] info Error registerPurchase: ReferenceError: id_user is not defined
+[2023-11-03T07:33:37.472Z] info server running on port 3000
+[2023-11-03T07:33:38.087Z] info enter the endpoint registerPurchase
+[2023-11-03T07:33:38.273Z] info Purchase registed successfully
+[2023-11-03T07:33:38.276Z] info Product purchase registed successfully
+[2023-11-03T07:33:38.278Z] info Product purchase registed successfully
+[2023-11-03T07:33:41.994Z] info enter the endpoint registerPurchase
+[2023-11-03T07:33:42.000Z] info Error registerPurchase: SequelizeForeignKeyConstraintError: inserción o actualización en la tabla «purchases» viola la llave foránea «purchases_fk_id_user_purchase_fkey»
+[2023-11-03T07:34:50.174Z] info server running on port 3000
+[2023-11-03T07:34:50.355Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:18.843Z] info server running on port 3000
+[2023-11-03T07:35:25.342Z] info server running on port 3000
+[2023-11-03T07:35:27.686Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:33.924Z] info server running on port 3000
+[2023-11-03T07:35:34.877Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:34.965Z] info Error registerPurchase: SequelizeForeignKeyConstraintError: inserción o actualización en la tabla «purchases» viola la llave foránea «purchases_fk_id_user_purchase_fkey»
+[2023-11-03T07:35:38.868Z] info server running on port 3000
+[2023-11-03T07:35:39.574Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:39.662Z] info Error registerPurchase: SequelizeForeignKeyConstraintError: inserción o actualización en la tabla «purchases» viola la llave foránea «purchases_fk_id_user_purchase_fkey»
+[2023-11-03T07:35:42.548Z] info server running on port 3000
+[2023-11-03T07:35:42.874Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:46.718Z] info enter the endpoint registerPurchase
+[2023-11-03T07:35:46.727Z] info Purchase registed successfully
+[2023-11-03T07:35:46.730Z] info Product purchase registed successfully
+[2023-11-03T07:35:46.732Z] info Product purchase registed successfully
+[2023-11-03T07:36:37.783Z] info server running on port 3000
+[2023-11-03T07:36:51.737Z] info server running on port 3000
+[2023-11-03T07:37:04.736Z] info server running on port 3000
+[2023-11-03T07:37:21.076Z] info server running on port 3000
+[2023-11-03T07:37:25.275Z] info server running on port 3000
+[2023-11-03T07:38:12.718Z] info server running on port 3000
+[2023-11-03T07:38:18.594Z] info server running on port 3000
+[2023-11-03T07:38:46.170Z] info server running on port 3000
+[2023-11-03T07:38:53.459Z] info server running on port 3000
+[2023-11-03T07:39:01.404Z] info server running on port 3000
+[2023-11-03T07:39:03.697Z] info server running on port 3000
+[2023-11-03T07:39:09.390Z] info enter the endpoint registerPurchase
+[2023-11-03T07:39:09.484Z] info Purchase registed successfully
+[2023-11-03T07:39:09.487Z] info Product purchase registed successfully
+[2023-11-03T07:39:09.488Z] info Product purchase registed successfully
+[2023-11-03T07:39:12.867Z] info enter the endpoint registerPurchase
+[2023-11-03T07:39:17.875Z] info enter the endpoint registerPurchase
+[2023-11-03T07:39:21.455Z] info enter the endpoint registerPurchase
+[2023-11-03T07:39:21.501Z] info Purchase registed successfully
+[2023-11-03T07:39:21.503Z] info Product purchase registed successfully
+[2023-11-03T07:39:21.504Z] info Product purchase registed successfully
+[2023-11-03T07:39:26.488Z] info server running on port 3000
+[2023-11-03T07:40:26.793Z] info server running on port 3000
+[2023-11-03T07:40:56.568Z] info server running on port 3000
+[2023-11-03T07:40:59.804Z] info enter the endpoint registerPurchase
+[2023-11-03T07:40:59.899Z] info Purchase registed successfully
+[2023-11-03T07:40:59.903Z] info Product purchase registed successfully
+[2023-11-03T07:40:59.905Z] info Product purchase registed successfully
+[2023-11-03T07:41:02.805Z] info enter the endpoint registerPurchase
+[2023-11-03T07:41:11.995Z] info server running on port 3000
+[2023-11-03T07:41:33.007Z] info server running on port 3000
+[2023-11-03T07:41:46.274Z] info server running on port 3000
+[2023-11-03T07:41:48.810Z] info server running on port 3000
