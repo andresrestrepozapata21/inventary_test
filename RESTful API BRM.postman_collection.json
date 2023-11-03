@@ -63,7 +63,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/api/products",
+							"raw": "http://localhost:3000/api/purchases/all",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -71,7 +71,8 @@
 							"port": "3000",
 							"path": [
 								"api",
-								"products"
+								"purchases",
+								"all"
 							]
 						}
 					},
@@ -83,7 +84,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/api/products/4",
+							"raw": "http://localhost:3000/api/products/3",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -92,7 +93,7 @@
 							"path": [
 								"api",
 								"products",
-								"4"
+								"3"
 							]
 						}
 					},
