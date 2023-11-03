@@ -35,6 +35,8 @@ export async function registerUser(req, res) {
     logger.info('enter the endpoint registerUser');
     // I save the variables that come to me in the request in variables.
     const { first_name_user, last_name_user, phone_number_user, email_user, password_user, flag_rol_user } = req.body;
+    // I validate req correct json
+    if (!first_name_user || !last_name_user || !phone_number_user || !email_user || !password_user || !flag_rol_user ) return res.sendStatus(400);
     // I declare the create method with its respective definition of the object and my Product model in a variable taking into account the await
     try {
         let newUser = await User.create({

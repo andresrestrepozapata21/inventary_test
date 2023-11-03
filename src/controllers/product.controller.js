@@ -38,17 +38,23 @@ export async function getOneProduct(req, res) {
         // capture the id that comes in the parameters of the req
         const { id_product } = req.params;
         // I call and save the result of the findOne method, which is d sequelize
-        const product = await Product.findOne({
+        const product = await Product.findAll({
             where: {
                 id_product
             }
         });
         // logger control proccess
         logger.info('Get a products him info');
-        // I build and return the json that I want to return
-        return res.json({
-            data: product
-        });
+        // I validate product > 0, id exists in BD
+        if (product.length > 0) {
+            // I build and return the json that I want to return
+            return res.json({
+                data: product
+            });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
+        }
     } catch (e) {
         // logger control proccess
         logger.info('Error getOneProduct: ' + e);
@@ -66,6 +72,8 @@ export async function registerProduct(req, res) {
     logger.info('enter the endpoint registerProduct');
     // I save the variables that come to me in the request in variables.
     const { lot_name_product, name_product, price_product, quantity_available_product, date_in_product } = req.body;
+    // I validate req correct json
+    if (!lot_name_product || !name_product || !price_product || !quantity_available_product || !date_in_product) return res.sendStatus(400);
     // I enclose everything in a try catch to control errors
     try {
         // I declare the create method with its respective definition of the object and my Product model in a variable taking into account the await
@@ -111,7 +119,8 @@ export async function updateProduct(req, res) {
         // I capture the parameter that comes in the req and the data that I want to update that comes in the body of the req
         const { id_product } = req.params;
         const { lot_name_product, name_product, price_product, quantity_available_product, date_in_product } = req.body;
-
+        // I validate req correct json
+        if (!lot_name_product || !name_product || !price_product || !quantity_available_product || !date_in_product) return res.sendStatus(400);
         // I call and save the result of the findOne method, which is d sequelize
         const products = await Product.findAll({
             attributes: ['id_product', 'lot_name_product', 'name_product', 'price_product', 'quantity_available_product', 'date_in_product'],
@@ -119,7 +128,7 @@ export async function updateProduct(req, res) {
                 id_product
             }
         });
-
+        // I validate product > 0, id exists in BD
         if (products.length > 0) {
             products.forEach(async products => {
                 await products.update({
@@ -130,6 +139,9 @@ export async function updateProduct(req, res) {
                     date_in_product
                 })
             });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
         }
         // logger control proccess
         logger.info('Product updated successfully');
@@ -165,11 +177,17 @@ export async function deleteProduct(req, res) {
         });
         // logger control proccess
         logger.info('Product deleted successfully');
-        // I return the json with the message I want
-        return res.json({
-            message: 'Product deleted successfully',
-            data: deleteRowCount
-        });
+        // I validate product > 0, id exists in BD
+        if (deleteRowCount.length > 0) {
+            // I return the json with the message I want
+            return res.json({
+                message: 'Product deleted successfully',
+                data: deleteRowCount
+            });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
+        }
     } catch (e) {
         // imprimo el errro en consola
         logger.info('Error deleteProduct, "Possibly it is because the product is in the purchasing tables": -----' + e);

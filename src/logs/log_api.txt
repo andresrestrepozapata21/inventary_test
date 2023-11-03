@@ -84,3 +84,850 @@
 [2023-11-03T04:27:52.846Z] info server running on port 3000
 [2023-11-03T04:27:59.462Z] info enter the endpoint GetUsers
 [2023-11-03T04:27:59.652Z] info Get List Users
+[2023-11-03T05:00:59.108Z] info server running on port 3000
+[2023-11-03T05:01:37.528Z] info enter the endpoint GetUsers
+[2023-11-03T05:01:37.618Z] info Get List Users
+[2023-11-03T05:02:13.090Z] info server running on port 3000
+[2023-11-03T05:16:16.960Z] info server running on port 3000
+[2023-11-03T05:16:45.878Z] info server running on port 3000
+[2023-11-03T05:16:46.502Z] info enter the endpoint GetUsers
+[2023-11-03T05:16:46.601Z] info Get List Users
+[2023-11-03T05:22:08.979Z] info enter the endpoint GetUsers
+[2023-11-03T05:22:09.060Z] info Get List Users
+[2023-11-03T05:33:15.766Z] info enter the endpoint GetUsers
+[2023-11-03T05:33:15.849Z] info Get List Users
+[2023-11-03T05:33:15.859Z] info enter the endpoint GetUsers
+[2023-11-03T05:33:15.861Z] info Get List Users
+[2023-11-03T05:34:47.387Z] info enter the endpoint GetUsers
+[2023-11-03T05:34:47.472Z] info Get List Users
+[2023-11-03T05:34:47.482Z] info enter the endpoint GetUsers
+[2023-11-03T05:34:47.484Z] info Get List Users
+[2023-11-03T05:35:17.674Z] info enter the endpoint GetUsers
+[2023-11-03T05:35:17.756Z] info Get List Users
+[2023-11-03T05:35:17.766Z] info enter the endpoint GetUsers
+[2023-11-03T05:35:17.768Z] info Get List Users
+[2023-11-03T05:36:56.773Z] info enter the endpoint GetUsers
+[2023-11-03T05:36:56.960Z] info Get List Users
+[2023-11-03T05:36:56.970Z] info enter the endpoint GetUsers
+[2023-11-03T05:36:56.972Z] info Get List Users
+[2023-11-03T05:37:11.157Z] info enter the endpoint GetUsers
+[2023-11-03T05:37:11.237Z] info Get List Users
+[2023-11-03T05:37:11.247Z] info enter the endpoint GetUsers
+[2023-11-03T05:37:11.249Z] info Get List Users
+[2023-11-03T05:44:10.725Z] info enter the endpoint GetUsers
+[2023-11-03T05:44:10.806Z] info Get List Users
+[2023-11-03T05:44:10.816Z] info enter the endpoint GetUsers
+[2023-11-03T05:44:10.818Z] info Get List Users
+[2023-11-03T05:47:44.754Z] info enter the endpoint GetUsers
+[2023-11-03T05:47:44.835Z] info Get List Users
+[2023-11-03T05:47:44.856Z] info enter the endpoint registerUser
+[2023-11-03T05:47:44.863Z] info User registed successfully
+[2023-11-03T05:49:19.917Z] info enter the endpoint GetUsers
+[2023-11-03T05:49:19.998Z] info Get List Users
+[2023-11-03T05:49:20.019Z] info enter the endpoint registerUser
+[2023-11-03T05:49:20.029Z] info User registed successfully
+[2023-11-03T05:49:48.046Z] info enter the endpoint GetUsers
+[2023-11-03T05:49:48.127Z] info Get List Users
+[2023-11-03T05:49:48.148Z] info enter the endpoint registerUser
+[2023-11-03T05:49:48.154Z] info User registed successfully
+[2023-11-03T05:50:41.389Z] info enter the endpoint GetUsers
+[2023-11-03T05:50:41.470Z] info Get List Users
+[2023-11-03T05:50:41.491Z] info enter the endpoint registerUser
+[2023-11-03T05:50:41.498Z] info User registed successfully
+[2023-11-03T05:52:02.146Z] info enter the endpoint GetUsers
+[2023-11-03T05:52:02.339Z] info Get List Users
+[2023-11-03T05:52:02.360Z] info enter the endpoint registerUser
+[2023-11-03T05:52:02.366Z] info User registed successfully
+[2023-11-03T05:58:24.112Z] info enter the endpoint GetUsers
+[2023-11-03T05:58:24.195Z] info Get List Users
+[2023-11-03T05:58:24.217Z] info enter the endpoint registerUser
+[2023-11-03T05:58:24.224Z] info User registed successfully
+[2023-11-03T05:58:24.230Z] info enter the endpoint registerUser
+[2023-11-03T05:58:24.268Z] info Error registerUser: SequelizeDatabaseError: el valor nulo en la columna «first_name_user» de la relación «users» viola la restricción de no nulo
+[2023-11-03T06:02:46.144Z] info enter the endpoint GetUsers
+[2023-11-03T06:02:46.230Z] info Get List Users
+[2023-11-03T06:02:46.253Z] info enter the endpoint registerUser
+[2023-11-03T06:02:46.261Z] info User registed successfully
+[2023-11-03T06:02:46.266Z] info enter the endpoint registerUser
+[2023-11-03T06:03:49.008Z] info enter the endpoint GetUsers
+[2023-11-03T06:03:49.263Z] info Get List Users
+[2023-11-03T06:03:49.299Z] info enter the endpoint registerUser
+[2023-11-03T06:03:49.311Z] info User registed successfully
+[2023-11-03T06:03:49.327Z] info enter the endpoint registerUser
+[2023-11-03T06:04:55.441Z] info enter the endpoint GetUsers
+[2023-11-03T06:04:55.665Z] info Get List Users
+[2023-11-03T06:04:55.703Z] info enter the endpoint registerUser
+[2023-11-03T06:04:55.715Z] info User registed successfully
+[2023-11-03T06:04:55.730Z] info enter the endpoint registerUser
+[2023-11-03T06:08:09.766Z] info enter the endpoint GetUsers
+[2023-11-03T06:08:10.095Z] info Get List Users
+[2023-11-03T06:08:10.131Z] info enter the endpoint registerUser
+[2023-11-03T06:08:10.144Z] info User registed successfully
+[2023-11-03T06:08:10.160Z] info enter the endpoint registerUser
+[2023-11-03T06:08:10.176Z] info enter the endpoint registerUser
+[2023-11-03T06:11:33.145Z] info enter the endpoint GetUsers
+[2023-11-03T06:11:33.266Z] info Get List Users
+[2023-11-03T06:11:33.304Z] info enter the endpoint registerUser
+[2023-11-03T06:11:33.322Z] info User registed successfully
+[2023-11-03T06:11:33.336Z] info enter the endpoint registerUser
+[2023-11-03T06:11:33.352Z] info enter the endpoint registerUser
+[2023-11-03T06:11:33.368Z] info enter the endpoint registerUser
+[2023-11-03T06:11:33.384Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.245Z] info enter the endpoint GetUsers
+[2023-11-03T06:11:47.471Z] info Get List Users
+[2023-11-03T06:11:47.509Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.521Z] info User registed successfully
+[2023-11-03T06:11:47.537Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.578Z] info Error registerUser: SequelizeDatabaseError: el valor nulo en la columna «first_name_user» de la relación «users» viola la restricción de no nulo
+[2023-11-03T06:11:47.603Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.614Z] info Error registerUser: SequelizeDatabaseError: el nuevo registro para la relación «users» viola la restricción «check» «users_first_name_user_check»
+[2023-11-03T06:11:47.636Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.643Z] info Error registerUser: SequelizeDatabaseError: el nuevo registro para la relación «users» viola la restricción «check» «users_last_name_user_check»
+[2023-11-03T06:11:47.658Z] info enter the endpoint registerUser
+[2023-11-03T06:11:47.666Z] info Error registerUser: SequelizeDatabaseError: el nuevo registro para la relación «users» viola la restricción «check» «users_first_name_user_check»
+[2023-11-03T06:17:15.146Z] info enter the endpoint GetUsers
+[2023-11-03T06:17:15.264Z] info Get List Users
+[2023-11-03T06:17:15.303Z] info enter the endpoint registerUser
+[2023-11-03T06:17:15.316Z] info User registed successfully
+[2023-11-03T06:17:15.333Z] info enter the endpoint registerUser
+[2023-11-03T06:17:15.349Z] info enter the endpoint registerUser
+[2023-11-03T06:17:15.364Z] info enter the endpoint registerUser
+[2023-11-03T06:17:15.380Z] info enter the endpoint registerUser
+[2023-11-03T06:17:15.397Z] info enter the endpoint login
+[2023-11-03T06:17:15.408Z] info correct credentials, seccion iniciada
+[2023-11-03T06:17:15.439Z] info enter the endpoint login
+[2023-11-03T06:17:15.455Z] info enter the endpoint login
+[2023-11-03T06:17:15.472Z] info enter the endpoint login
+[2023-11-03T06:18:05.892Z] info server running on port 3000
+[2023-11-03T06:18:07.894Z] info enter the endpoint login
+[2023-11-03T06:18:07.979Z] info correct credentials, seccion iniciada
+[2023-11-03T06:20:00.895Z] info enter the endpoint GetUsers
+[2023-11-03T06:20:01.031Z] info Get List Users
+[2023-11-03T06:20:01.065Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.078Z] info User registed successfully
+[2023-11-03T06:20:01.092Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.107Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.123Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.138Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.154Z] info enter the endpoint registerUser
+[2023-11-03T06:20:01.161Z] info User registed successfully
+[2023-11-03T06:20:01.176Z] info enter the endpoint login
+[2023-11-03T06:20:01.192Z] info enter the endpoint login
+[2023-11-03T06:20:01.208Z] info enter the endpoint login
+[2023-11-03T06:20:16.008Z] info enter the endpoint GetUsers
+[2023-11-03T06:20:16.128Z] info Get List Users
+[2023-11-03T06:20:16.164Z] info enter the endpoint registerUser
+[2023-11-03T06:20:16.177Z] info User registed successfully
+[2023-11-03T06:20:16.191Z] info enter the endpoint registerUser
+[2023-11-03T06:20:16.206Z] info enter the endpoint registerUser
+[2023-11-03T06:20:16.224Z] info enter the endpoint registerUser
+[2023-11-03T06:20:16.240Z] info enter the endpoint registerUser
+[2023-11-03T06:20:16.256Z] info enter the endpoint login
+[2023-11-03T06:20:16.268Z] info correct credentials, seccion iniciada
+[2023-11-03T06:20:16.328Z] info enter the endpoint login
+[2023-11-03T06:20:16.353Z] info enter the endpoint login
+[2023-11-03T06:20:16.374Z] info enter the endpoint login
+[2023-11-03T06:21:35.278Z] info enter the endpoint GetUsers
+[2023-11-03T06:21:35.396Z] info Get List Users
+[2023-11-03T06:21:35.437Z] info enter the endpoint registerUser
+[2023-11-03T06:21:35.450Z] info User registed successfully
+[2023-11-03T06:21:35.464Z] info enter the endpoint registerUser
+[2023-11-03T06:21:35.480Z] info enter the endpoint registerUser
+[2023-11-03T06:21:35.495Z] info enter the endpoint registerUser
+[2023-11-03T06:21:35.510Z] info enter the endpoint registerUser
+[2023-11-03T06:21:35.526Z] info enter the endpoint login
+[2023-11-03T06:21:35.559Z] info enter the endpoint login
+[2023-11-03T06:21:35.575Z] info enter the endpoint login
+[2023-11-03T06:21:35.591Z] info enter the endpoint login
+[2023-11-03T06:22:30.086Z] info enter the endpoint GetUsers
+[2023-11-03T06:22:30.210Z] info Get List Users
+[2023-11-03T06:22:30.249Z] info enter the endpoint registerUser
+[2023-11-03T06:22:30.261Z] info User registed successfully
+[2023-11-03T06:22:30.277Z] info enter the endpoint registerUser
+[2023-11-03T06:22:30.293Z] info enter the endpoint registerUser
+[2023-11-03T06:22:30.308Z] info enter the endpoint registerUser
+[2023-11-03T06:22:30.325Z] info enter the endpoint registerUser
+[2023-11-03T06:22:30.341Z] info enter the endpoint login
+[2023-11-03T06:22:30.374Z] info enter the endpoint login
+[2023-11-03T06:22:30.389Z] info enter the endpoint login
+[2023-11-03T06:22:30.405Z] info enter the endpoint login
+[2023-11-03T06:23:16.346Z] info enter the endpoint GetUsers
+[2023-11-03T06:23:16.463Z] info Get List Users
+[2023-11-03T06:23:16.500Z] info enter the endpoint registerUser
+[2023-11-03T06:23:16.513Z] info User registed successfully
+[2023-11-03T06:23:16.527Z] info enter the endpoint registerUser
+[2023-11-03T06:23:16.542Z] info enter the endpoint registerUser
+[2023-11-03T06:23:16.557Z] info enter the endpoint registerUser
+[2023-11-03T06:23:16.573Z] info enter the endpoint registerUser
+[2023-11-03T06:23:16.589Z] info enter the endpoint login
+[2023-11-03T06:23:16.621Z] info enter the endpoint login
+[2023-11-03T06:23:16.636Z] info enter the endpoint login
+[2023-11-03T06:23:16.653Z] info enter the endpoint login
+[2023-11-03T06:25:05.715Z] info enter the endpoint GetUsers
+[2023-11-03T06:25:05.950Z] info Get List Users
+[2023-11-03T06:25:05.987Z] info enter the endpoint registerUser
+[2023-11-03T06:25:06.000Z] info User registed successfully
+[2023-11-03T06:25:06.016Z] info enter the endpoint registerUser
+[2023-11-03T06:25:06.031Z] info enter the endpoint registerUser
+[2023-11-03T06:25:06.047Z] info enter the endpoint registerUser
+[2023-11-03T06:25:06.063Z] info enter the endpoint registerUser
+[2023-11-03T06:25:06.079Z] info enter the endpoint login
+[2023-11-03T06:25:06.112Z] info enter the endpoint login
+[2023-11-03T06:25:06.127Z] info enter the endpoint login
+[2023-11-03T06:25:06.147Z] info enter the endpoint login
+[2023-11-03T06:26:05.625Z] info enter the endpoint GetUsers
+[2023-11-03T06:26:05.743Z] info Get List Users
+[2023-11-03T06:26:05.779Z] info enter the endpoint registerUser
+[2023-11-03T06:26:05.793Z] info User registed successfully
+[2023-11-03T06:26:05.807Z] info enter the endpoint registerUser
+[2023-11-03T06:26:05.822Z] info enter the endpoint registerUser
+[2023-11-03T06:26:05.839Z] info enter the endpoint registerUser
+[2023-11-03T06:26:05.854Z] info enter the endpoint registerUser
+[2023-11-03T06:26:05.870Z] info enter the endpoint login
+[2023-11-03T06:26:05.880Z] info correct credentials, seccion iniciada
+[2023-11-03T06:26:05.897Z] info enter the endpoint login
+[2023-11-03T06:26:05.912Z] info enter the endpoint login
+[2023-11-03T06:26:05.928Z] info enter the endpoint login
+[2023-11-03T06:28:42.992Z] info enter the endpoint GetUsers
+[2023-11-03T06:28:43.112Z] info Get List Users
+[2023-11-03T06:28:43.149Z] info enter the endpoint registerUser
+[2023-11-03T06:28:43.161Z] info User registed successfully
+[2023-11-03T06:28:43.176Z] info enter the endpoint registerUser
+[2023-11-03T06:28:43.191Z] info enter the endpoint registerUser
+[2023-11-03T06:28:43.207Z] info enter the endpoint registerUser
+[2023-11-03T06:28:43.222Z] info enter the endpoint registerUser
+[2023-11-03T06:28:43.238Z] info enter the endpoint login
+[2023-11-03T06:28:43.248Z] info correct credentials, seccion iniciada
+[2023-11-03T06:28:43.265Z] info enter the endpoint login
+[2023-11-03T06:28:43.281Z] info enter the endpoint login
+[2023-11-03T06:28:43.296Z] info enter the endpoint login
+[2023-11-03T06:28:43.313Z] info enter the endpoint getProducts
+[2023-11-03T06:28:43.324Z] info Get list products
+[2023-11-03T06:29:31.921Z] info enter the endpoint GetUsers
+[2023-11-03T06:29:32.037Z] info Get List Users
+[2023-11-03T06:29:32.077Z] info enter the endpoint registerUser
+[2023-11-03T06:29:32.090Z] info User registed successfully
+[2023-11-03T06:29:32.106Z] info enter the endpoint registerUser
+[2023-11-03T06:29:32.122Z] info enter the endpoint registerUser
+[2023-11-03T06:29:32.137Z] info enter the endpoint registerUser
+[2023-11-03T06:29:32.152Z] info enter the endpoint registerUser
+[2023-11-03T06:29:32.168Z] info enter the endpoint login
+[2023-11-03T06:29:32.178Z] info correct credentials, seccion iniciada
+[2023-11-03T06:29:32.193Z] info enter the endpoint login
+[2023-11-03T06:29:32.208Z] info enter the endpoint login
+[2023-11-03T06:29:32.224Z] info enter the endpoint login
+[2023-11-03T06:29:32.238Z] info enter the endpoint getProducts
+[2023-11-03T06:29:32.250Z] info Get list products
+[2023-11-03T06:29:32.264Z] info enter the endpoint getOneProducts
+[2023-11-03T06:29:32.273Z] info Get a products him info
+[2023-11-03T06:32:32.723Z] info enter the endpoint GetUsers
+[2023-11-03T06:32:32.845Z] info Get List Users
+[2023-11-03T06:32:32.881Z] info enter the endpoint registerUser
+[2023-11-03T06:32:32.893Z] info User registed successfully
+[2023-11-03T06:32:32.908Z] info enter the endpoint registerUser
+[2023-11-03T06:32:32.924Z] info enter the endpoint registerUser
+[2023-11-03T06:32:32.939Z] info enter the endpoint registerUser
+[2023-11-03T06:32:32.954Z] info enter the endpoint registerUser
+[2023-11-03T06:32:32.972Z] info enter the endpoint login
+[2023-11-03T06:32:32.983Z] info correct credentials, seccion iniciada
+[2023-11-03T06:32:32.999Z] info enter the endpoint login
+[2023-11-03T06:32:33.015Z] info enter the endpoint login
+[2023-11-03T06:32:33.031Z] info enter the endpoint login
+[2023-11-03T06:32:33.047Z] info enter the endpoint getProducts
+[2023-11-03T06:32:33.059Z] info Get list products
+[2023-11-03T06:32:33.083Z] info enter the endpoint getOneProducts
+[2023-11-03T06:32:33.092Z] info Get a products him info
+[2023-11-03T06:32:33.107Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:33.115Z] info Product registed successfully
+[2023-11-03T06:32:33.143Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:33.159Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:33.174Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:33.191Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:53.193Z] info enter the endpoint GetUsers
+[2023-11-03T06:32:53.309Z] info Get List Users
+[2023-11-03T06:32:53.347Z] info enter the endpoint registerUser
+[2023-11-03T06:32:53.360Z] info User registed successfully
+[2023-11-03T06:32:53.374Z] info enter the endpoint registerUser
+[2023-11-03T06:32:53.399Z] info enter the endpoint registerUser
+[2023-11-03T06:32:53.415Z] info enter the endpoint registerUser
+[2023-11-03T06:32:53.430Z] info enter the endpoint registerUser
+[2023-11-03T06:32:53.447Z] info enter the endpoint login
+[2023-11-03T06:32:53.458Z] info correct credentials, seccion iniciada
+[2023-11-03T06:32:53.474Z] info enter the endpoint login
+[2023-11-03T06:32:53.490Z] info enter the endpoint login
+[2023-11-03T06:32:53.506Z] info enter the endpoint login
+[2023-11-03T06:32:53.522Z] info enter the endpoint getProducts
+[2023-11-03T06:32:53.535Z] info Get list products
+[2023-11-03T06:32:53.548Z] info enter the endpoint getOneProducts
+[2023-11-03T06:32:53.558Z] info Get a products him info
+[2023-11-03T06:32:53.572Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:53.580Z] info Product registed successfully
+[2023-11-03T06:32:53.610Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:53.627Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:53.647Z] info enter the endpoint registerProduct
+[2023-11-03T06:32:53.663Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:05.768Z] info server running on port 3000
+[2023-11-03T06:33:11.749Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:11.872Z] info Product registed successfully
+[2023-11-03T06:33:41.459Z] info enter the endpoint GetUsers
+[2023-11-03T06:33:41.574Z] info Get List Users
+[2023-11-03T06:33:41.610Z] info enter the endpoint registerUser
+[2023-11-03T06:33:41.623Z] info User registed successfully
+[2023-11-03T06:33:41.637Z] info enter the endpoint registerUser
+[2023-11-03T06:33:41.653Z] info enter the endpoint registerUser
+[2023-11-03T06:33:41.667Z] info enter the endpoint registerUser
+[2023-11-03T06:33:41.682Z] info enter the endpoint registerUser
+[2023-11-03T06:33:41.698Z] info enter the endpoint login
+[2023-11-03T06:33:41.709Z] info correct credentials, seccion iniciada
+[2023-11-03T06:33:41.724Z] info enter the endpoint login
+[2023-11-03T06:33:41.739Z] info enter the endpoint login
+[2023-11-03T06:33:41.755Z] info enter the endpoint login
+[2023-11-03T06:33:41.769Z] info enter the endpoint getProducts
+[2023-11-03T06:33:41.781Z] info Get list products
+[2023-11-03T06:33:41.795Z] info enter the endpoint getOneProducts
+[2023-11-03T06:33:41.804Z] info Get a products him info
+[2023-11-03T06:33:41.819Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:41.827Z] info Product registed successfully
+[2023-11-03T06:33:41.842Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:41.857Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:41.872Z] info enter the endpoint registerProduct
+[2023-11-03T06:33:41.888Z] info enter the endpoint registerProduct
+[2023-11-03T06:35:04.908Z] info server running on port 3000
+[2023-11-03T06:35:05.278Z] info enter the endpoint updateProduct
+[2023-11-03T06:35:05.363Z] info Product updated successfully
+[2023-11-03T06:35:18.061Z] info enter the endpoint updateProduct
+[2023-11-03T06:35:18.203Z] info Product updated successfully
+[2023-11-03T06:35:26.579Z] info enter the endpoint updateProduct
+[2023-11-03T06:35:26.581Z] info Product updated successfully
+[2023-11-03T06:35:43.716Z] info server running on port 3000
+[2023-11-03T06:35:48.530Z] info server running on port 3000
+[2023-11-03T06:35:57.093Z] info server running on port 3000
+[2023-11-03T06:36:05.753Z] info server running on port 3000
+[2023-11-03T06:36:27.911Z] info server running on port 3000
+[2023-11-03T06:36:32.470Z] info server running on port 3000
+[2023-11-03T06:36:37.176Z] info server running on port 3000
+[2023-11-03T06:36:44.562Z] info server running on port 3000
+[2023-11-03T06:36:52.291Z] info enter the endpoint GetUsers
+[2023-11-03T06:36:52.415Z] info Get List Users
+[2023-11-03T06:36:52.452Z] info enter the endpoint registerUser
+[2023-11-03T06:36:52.464Z] info User registed successfully
+[2023-11-03T06:36:52.479Z] info enter the endpoint registerUser
+[2023-11-03T06:36:52.495Z] info enter the endpoint registerUser
+[2023-11-03T06:36:52.511Z] info enter the endpoint registerUser
+[2023-11-03T06:36:52.526Z] info enter the endpoint registerUser
+[2023-11-03T06:36:52.542Z] info enter the endpoint login
+[2023-11-03T06:36:52.553Z] info correct credentials, seccion iniciada
+[2023-11-03T06:36:52.568Z] info enter the endpoint login
+[2023-11-03T06:36:52.584Z] info enter the endpoint login
+[2023-11-03T06:36:52.600Z] info enter the endpoint login
+[2023-11-03T06:36:52.616Z] info enter the endpoint getProducts
+[2023-11-03T06:36:52.629Z] info Get list products
+[2023-11-03T06:36:52.643Z] info enter the endpoint getOneProducts
+[2023-11-03T06:36:52.652Z] info Get a products him info
+[2023-11-03T06:36:52.667Z] info enter the endpoint registerProduct
+[2023-11-03T06:36:52.676Z] info Product registed successfully
+[2023-11-03T06:36:52.690Z] info enter the endpoint registerProduct
+[2023-11-03T06:36:52.704Z] info enter the endpoint registerProduct
+[2023-11-03T06:36:52.720Z] info enter the endpoint registerProduct
+[2023-11-03T06:36:52.735Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:06.956Z] info server running on port 3000
+[2023-11-03T06:37:12.323Z] info enter the endpoint GetUsers
+[2023-11-03T06:37:12.439Z] info Get List Users
+[2023-11-03T06:37:12.478Z] info enter the endpoint registerUser
+[2023-11-03T06:37:12.489Z] info User registed successfully
+[2023-11-03T06:37:12.505Z] info enter the endpoint registerUser
+[2023-11-03T06:37:12.521Z] info enter the endpoint registerUser
+[2023-11-03T06:37:12.536Z] info enter the endpoint registerUser
+[2023-11-03T06:37:12.552Z] info enter the endpoint registerUser
+[2023-11-03T06:37:12.569Z] info enter the endpoint login
+[2023-11-03T06:37:12.581Z] info correct credentials, seccion iniciada
+[2023-11-03T06:37:12.596Z] info enter the endpoint login
+[2023-11-03T06:37:12.612Z] info enter the endpoint login
+[2023-11-03T06:37:12.628Z] info enter the endpoint login
+[2023-11-03T06:37:12.643Z] info enter the endpoint getProducts
+[2023-11-03T06:37:12.655Z] info Get list products
+[2023-11-03T06:37:12.670Z] info enter the endpoint getOneProducts
+[2023-11-03T06:37:12.679Z] info Get a products him info
+[2023-11-03T06:37:12.694Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:12.702Z] info Product registed successfully
+[2023-11-03T06:37:12.715Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:12.730Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:12.745Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:12.762Z] info enter the endpoint registerProduct
+[2023-11-03T06:37:12.780Z] info enter the endpoint updateProduct
+[2023-11-03T06:37:12.789Z] info Product updated successfully
+[2023-11-03T06:37:12.823Z] info enter the endpoint updateProduct
+[2023-11-03T06:37:12.831Z] info Product updated successfully
+[2023-11-03T06:37:12.847Z] info enter the endpoint updateProduct
+[2023-11-03T06:37:12.854Z] info Product updated successfully
+[2023-11-03T06:37:12.900Z] info enter the endpoint updateProduct
+[2023-11-03T06:37:12.908Z] info Product updated successfully
+[2023-11-03T06:37:12.931Z] info enter the endpoint updateProduct
+[2023-11-03T06:37:12.941Z] info Product updated successfully
+[2023-11-03T06:37:40.797Z] info server running on port 3000
+[2023-11-03T06:38:01.352Z] info server running on port 3000
+[2023-11-03T06:38:08.439Z] info server running on port 3000
+[2023-11-03T06:38:11.184Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:28.663Z] info enter the endpoint GetUsers
+[2023-11-03T06:38:28.894Z] info Get List Users
+[2023-11-03T06:38:28.938Z] info enter the endpoint registerUser
+[2023-11-03T06:38:28.950Z] info User registed successfully
+[2023-11-03T06:38:28.967Z] info enter the endpoint registerUser
+[2023-11-03T06:38:28.983Z] info enter the endpoint registerUser
+[2023-11-03T06:38:28.998Z] info enter the endpoint registerUser
+[2023-11-03T06:38:29.014Z] info enter the endpoint registerUser
+[2023-11-03T06:38:29.030Z] info enter the endpoint login
+[2023-11-03T06:38:29.041Z] info correct credentials, seccion iniciada
+[2023-11-03T06:38:29.056Z] info enter the endpoint login
+[2023-11-03T06:38:29.072Z] info enter the endpoint login
+[2023-11-03T06:38:29.089Z] info enter the endpoint login
+[2023-11-03T06:38:29.106Z] info enter the endpoint getProducts
+[2023-11-03T06:38:29.119Z] info Get list products
+[2023-11-03T06:38:29.133Z] info enter the endpoint getOneProducts
+[2023-11-03T06:38:29.142Z] info Get a products him info
+[2023-11-03T06:38:29.157Z] info enter the endpoint registerProduct
+[2023-11-03T06:38:29.166Z] info Product registed successfully
+[2023-11-03T06:38:29.186Z] info enter the endpoint registerProduct
+[2023-11-03T06:38:29.201Z] info enter the endpoint registerProduct
+[2023-11-03T06:38:29.217Z] info enter the endpoint registerProduct
+[2023-11-03T06:38:29.237Z] info enter the endpoint registerProduct
+[2023-11-03T06:38:29.253Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:29.261Z] info Product updated successfully
+[2023-11-03T06:38:29.292Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:29.308Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:29.324Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:29.340Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:49.134Z] info enter the endpoint updateProduct
+[2023-11-03T06:38:49.169Z] info Product updated successfully
+[2023-11-03T06:38:57.257Z] info server running on port 3000
+[2023-11-03T06:39:02.572Z] info enter the endpoint GetUsers
+[2023-11-03T06:39:02.694Z] info Get List Users
+[2023-11-03T06:39:02.733Z] info enter the endpoint registerUser
+[2023-11-03T06:39:02.745Z] info User registed successfully
+[2023-11-03T06:39:02.761Z] info enter the endpoint registerUser
+[2023-11-03T06:39:02.777Z] info enter the endpoint registerUser
+[2023-11-03T06:39:02.793Z] info enter the endpoint registerUser
+[2023-11-03T06:39:02.809Z] info enter the endpoint registerUser
+[2023-11-03T06:39:02.825Z] info enter the endpoint login
+[2023-11-03T06:39:02.836Z] info correct credentials, seccion iniciada
+[2023-11-03T06:39:02.857Z] info enter the endpoint login
+[2023-11-03T06:39:02.873Z] info enter the endpoint login
+[2023-11-03T06:39:02.888Z] info enter the endpoint login
+[2023-11-03T06:39:02.904Z] info enter the endpoint getProducts
+[2023-11-03T06:39:02.916Z] info Get list products
+[2023-11-03T06:39:02.930Z] info enter the endpoint getOneProducts
+[2023-11-03T06:39:02.940Z] info Get a products him info
+[2023-11-03T06:39:02.955Z] info enter the endpoint registerProduct
+[2023-11-03T06:39:02.963Z] info Product registed successfully
+[2023-11-03T06:39:02.978Z] info enter the endpoint registerProduct
+[2023-11-03T06:39:02.992Z] info enter the endpoint registerProduct
+[2023-11-03T06:39:03.009Z] info enter the endpoint registerProduct
+[2023-11-03T06:39:03.025Z] info enter the endpoint registerProduct
+[2023-11-03T06:39:03.040Z] info enter the endpoint updateProduct
+[2023-11-03T06:39:03.048Z] info Product updated successfully
+[2023-11-03T06:39:03.063Z] info enter the endpoint updateProduct
+[2023-11-03T06:39:03.080Z] info enter the endpoint updateProduct
+[2023-11-03T06:39:03.094Z] info enter the endpoint updateProduct
+[2023-11-03T06:39:03.118Z] info enter the endpoint updateProduct
+[2023-11-03T06:39:24.267Z] info server running on port 3000
+[2023-11-03T06:39:25.543Z] info server running on port 3000
+[2023-11-03T06:39:35.752Z] info server running on port 3000
+[2023-11-03T06:39:52.461Z] info server running on port 3000
+[2023-11-03T06:40:38.262Z] info server running on port 3000
+[2023-11-03T06:40:47.956Z] info server running on port 3000
+[2023-11-03T06:41:07.353Z] info server running on port 3000
+[2023-11-03T06:41:12.886Z] info server running on port 3000
+[2023-11-03T06:41:19.787Z] info server running on port 3000
+[2023-11-03T06:41:23.738Z] info enter the endpoint updateProduct
+[2023-11-03T06:41:23.825Z] info Product updated successfully
+[2023-11-03T06:41:27.294Z] info enter the endpoint deleteProduct
+[2023-11-03T06:41:27.295Z] info Product deleted successfully
+[2023-11-03T06:41:40.143Z] info server running on port 3000
+[2023-11-03T06:41:57.791Z] info server running on port 3000
+[2023-11-03T06:42:09.246Z] info server running on port 3000
+[2023-11-03T06:42:36.049Z] info server running on port 3000
+[2023-11-03T06:43:15.528Z] info server running on port 3000
+[2023-11-03T06:43:18.760Z] info server running on port 3000
+[2023-11-03T06:43:23.783Z] info server running on port 3000
+[2023-11-03T06:43:56.896Z] info server running on port 3000
+[2023-11-03T06:44:01.183Z] info enter the endpoint GetUsers
+[2023-11-03T06:44:01.416Z] info Get List Users
+[2023-11-03T06:44:01.449Z] info enter the endpoint registerUser
+[2023-11-03T06:44:01.464Z] info User registed successfully
+[2023-11-03T06:44:01.477Z] info enter the endpoint registerUser
+[2023-11-03T06:44:01.492Z] info enter the endpoint registerUser
+[2023-11-03T06:44:01.508Z] info enter the endpoint registerUser
+[2023-11-03T06:44:01.522Z] info enter the endpoint registerUser
+[2023-11-03T06:44:01.539Z] info enter the endpoint login
+[2023-11-03T06:44:01.548Z] info correct credentials, seccion iniciada
+[2023-11-03T06:44:01.563Z] info enter the endpoint login
+[2023-11-03T06:44:01.578Z] info enter the endpoint login
+[2023-11-03T06:44:01.593Z] info enter the endpoint login
+[2023-11-03T06:44:01.608Z] info enter the endpoint getProducts
+[2023-11-03T06:44:01.621Z] info Get list products
+[2023-11-03T06:44:01.635Z] info enter the endpoint getOneProducts
+[2023-11-03T06:44:01.645Z] info Get a products him info
+[2023-11-03T06:44:01.659Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:01.667Z] info Product registed successfully
+[2023-11-03T06:44:01.680Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:01.696Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:01.711Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:01.727Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:01.742Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:01.750Z] info Product updated successfully
+[2023-11-03T06:44:01.765Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:01.781Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:01.795Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:01.811Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:01.837Z] info enter the endpoint deleteProduct
+[2023-11-03T06:44:01.880Z] info Error deleteProduct, "Possibly it is because the product is in the purchasing tables": -----SequelizeForeignKeyConstraintError: update o delete en «products» viola la llave foránea «purchasesdetails_fk_id_product_purchasedetail_fkey» en la tabla «purchasesdetails»
+[2023-11-03T06:44:46.169Z] info server running on port 3000
+[2023-11-03T06:44:51.391Z] info enter the endpoint GetUsers
+[2023-11-03T06:44:51.511Z] info Get List Users
+[2023-11-03T06:44:51.548Z] info enter the endpoint registerUser
+[2023-11-03T06:44:51.561Z] info User registed successfully
+[2023-11-03T06:44:51.576Z] info enter the endpoint registerUser
+[2023-11-03T06:44:51.591Z] info enter the endpoint registerUser
+[2023-11-03T06:44:51.607Z] info enter the endpoint registerUser
+[2023-11-03T06:44:51.623Z] info enter the endpoint registerUser
+[2023-11-03T06:44:51.639Z] info enter the endpoint login
+[2023-11-03T06:44:51.649Z] info correct credentials, seccion iniciada
+[2023-11-03T06:44:51.666Z] info enter the endpoint login
+[2023-11-03T06:44:51.681Z] info enter the endpoint login
+[2023-11-03T06:44:51.697Z] info enter the endpoint login
+[2023-11-03T06:44:51.712Z] info enter the endpoint getProducts
+[2023-11-03T06:44:51.724Z] info Get list products
+[2023-11-03T06:44:51.738Z] info enter the endpoint getOneProducts
+[2023-11-03T06:44:51.747Z] info Get a products him info
+[2023-11-03T06:44:51.761Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:51.769Z] info Product registed successfully
+[2023-11-03T06:44:51.783Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:51.798Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:51.814Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:51.830Z] info enter the endpoint registerProduct
+[2023-11-03T06:44:51.845Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:51.852Z] info Product updated successfully
+[2023-11-03T06:44:51.867Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:51.883Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:51.897Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:51.913Z] info enter the endpoint updateProduct
+[2023-11-03T06:44:51.939Z] info enter the endpoint deleteProduct
+[2023-11-03T06:44:51.947Z] info Product deleted successfully
+[2023-11-03T06:45:36.876Z] info server running on port 3000
+[2023-11-03T06:45:49.948Z] info server running on port 3000
+[2023-11-03T06:46:01.435Z] info server running on port 3000
+[2023-11-03T06:46:31.894Z] info server running on port 3000
+[2023-11-03T06:46:58.947Z] info server running on port 3000
+[2023-11-03T06:47:05.563Z] info server running on port 3000
+[2023-11-03T06:47:20.687Z] info server running on port 3000
+[2023-11-03T06:47:28.476Z] info server running on port 3000
+[2023-11-03T06:48:11.546Z] info server running on port 3000
+[2023-11-03T06:48:19.040Z] info server running on port 3000
+[2023-11-03T06:48:35.676Z] info server running on port 3000
+[2023-11-03T06:48:43.338Z] info server running on port 3000
+[2023-11-03T06:48:50.246Z] info enter the endpoint GetUsers
+[2023-11-03T06:48:50.479Z] info Get List Users
+[2023-11-03T06:48:50.513Z] info enter the endpoint registerUser
+[2023-11-03T06:48:50.535Z] info User registed successfully
+[2023-11-03T06:48:50.548Z] info enter the endpoint registerUser
+[2023-11-03T06:48:50.564Z] info enter the endpoint registerUser
+[2023-11-03T06:48:50.579Z] info enter the endpoint registerUser
+[2023-11-03T06:48:50.594Z] info enter the endpoint registerUser
+[2023-11-03T06:48:50.610Z] info enter the endpoint login
+[2023-11-03T06:48:50.620Z] info correct credentials, seccion iniciada
+[2023-11-03T06:48:50.636Z] info enter the endpoint login
+[2023-11-03T06:48:50.651Z] info enter the endpoint login
+[2023-11-03T06:48:50.668Z] info enter the endpoint login
+[2023-11-03T06:48:50.683Z] info enter the endpoint getProducts
+[2023-11-03T06:48:50.696Z] info Get list products
+[2023-11-03T06:48:50.710Z] info enter the endpoint getOneProducts
+[2023-11-03T06:48:50.720Z] info Get a products him info
+[2023-11-03T06:48:50.734Z] info enter the endpoint registerProduct
+[2023-11-03T06:48:50.742Z] info Product registed successfully
+[2023-11-03T06:48:50.756Z] info enter the endpoint registerProduct
+[2023-11-03T06:48:50.772Z] info enter the endpoint registerProduct
+[2023-11-03T06:48:50.795Z] info enter the endpoint registerProduct
+[2023-11-03T06:48:50.812Z] info enter the endpoint registerProduct
+[2023-11-03T06:48:50.828Z] info enter the endpoint updateProduct
+[2023-11-03T06:48:50.836Z] info Product updated successfully
+[2023-11-03T06:48:50.851Z] info enter the endpoint updateProduct
+[2023-11-03T06:48:50.867Z] info enter the endpoint updateProduct
+[2023-11-03T06:48:50.882Z] info enter the endpoint updateProduct
+[2023-11-03T06:48:50.898Z] info enter the endpoint updateProduct
+[2023-11-03T06:48:50.924Z] info enter the endpoint deleteProduct
+[2023-11-03T06:48:50.933Z] info Product deleted successfully
+[2023-11-03T06:48:50.973Z] info enter the endpoint getPurchases
+[2023-11-03T06:48:50.992Z] info Get list all Purchases
+[2023-11-03T06:49:16.742Z] info server running on port 3000
+[2023-11-03T06:49:28.459Z] info server running on port 3000
+[2023-11-03T06:49:47.060Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T06:49:47.264Z] info Get list purchases products by user
+[2023-11-03T06:50:03.576Z] info server running on port 3000
+[2023-11-03T06:50:36.616Z] info server running on port 3000
+[2023-11-03T06:50:53.258Z] info server running on port 3000
+[2023-11-03T06:50:59.724Z] info server running on port 3000
+[2023-11-03T06:51:27.893Z] info server running on port 3000
+[2023-11-03T06:51:46.116Z] info server running on port 3000
+[2023-11-03T06:51:59.537Z] info server running on port 3000
+[2023-11-03T06:52:16.903Z] info server running on port 3000
+[2023-11-03T06:52:20.627Z] info server running on port 3000
+[2023-11-03T06:52:28.557Z] info server running on port 3000
+[2023-11-03T06:52:35.210Z] info server running on port 3000
+[2023-11-03T06:52:46.877Z] info server running on port 3000
+[2023-11-03T06:52:54.348Z] info enter the endpoint GetUsers
+[2023-11-03T06:52:54.676Z] info Get List Users
+[2023-11-03T06:52:54.712Z] info enter the endpoint registerUser
+[2023-11-03T06:52:54.725Z] info User registed successfully
+[2023-11-03T06:52:54.739Z] info enter the endpoint registerUser
+[2023-11-03T06:52:54.755Z] info enter the endpoint registerUser
+[2023-11-03T06:52:54.770Z] info enter the endpoint registerUser
+[2023-11-03T06:52:54.785Z] info enter the endpoint registerUser
+[2023-11-03T06:52:54.801Z] info enter the endpoint login
+[2023-11-03T06:52:54.811Z] info correct credentials, seccion iniciada
+[2023-11-03T06:52:54.827Z] info enter the endpoint login
+[2023-11-03T06:52:54.842Z] info enter the endpoint login
+[2023-11-03T06:52:54.858Z] info enter the endpoint login
+[2023-11-03T06:52:54.873Z] info enter the endpoint getProducts
+[2023-11-03T06:52:54.886Z] info Get list products
+[2023-11-03T06:52:54.900Z] info enter the endpoint getOneProducts
+[2023-11-03T06:52:54.910Z] info Get a products him info
+[2023-11-03T06:52:54.924Z] info enter the endpoint registerProduct
+[2023-11-03T06:52:54.932Z] info Product registed successfully
+[2023-11-03T06:52:54.946Z] info enter the endpoint registerProduct
+[2023-11-03T06:52:54.961Z] info enter the endpoint registerProduct
+[2023-11-03T06:52:54.978Z] info enter the endpoint registerProduct
+[2023-11-03T06:52:55.000Z] info enter the endpoint registerProduct
+[2023-11-03T06:52:55.017Z] info enter the endpoint updateProduct
+[2023-11-03T06:52:55.026Z] info Product updated successfully
+[2023-11-03T06:52:55.043Z] info enter the endpoint updateProduct
+[2023-11-03T06:52:55.059Z] info enter the endpoint updateProduct
+[2023-11-03T06:52:55.075Z] info enter the endpoint updateProduct
+[2023-11-03T06:52:55.090Z] info enter the endpoint updateProduct
+[2023-11-03T06:52:55.117Z] info enter the endpoint deleteProduct
+[2023-11-03T06:52:55.126Z] info Product deleted successfully
+[2023-11-03T06:52:55.166Z] info enter the endpoint getPurchases
+[2023-11-03T06:52:55.187Z] info Get list all Purchases
+[2023-11-03T06:54:31.541Z] info server running on port 3000
+[2023-11-03T06:54:32.634Z] info server running on port 3000
+[2023-11-03T06:54:53.795Z] info server running on port 3000
+[2023-11-03T06:54:55.481Z] info server running on port 3000
+[2023-11-03T06:55:04.146Z] info server running on port 3000
+[2023-11-03T06:55:05.095Z] info server running on port 3000
+[2023-11-03T06:55:15.730Z] info server running on port 3000
+[2023-11-03T06:55:17.275Z] info server running on port 3000
+[2023-11-03T06:55:51.267Z] info server running on port 3000
+[2023-11-03T06:55:52.747Z] info server running on port 3000
+[2023-11-03T06:56:08.220Z] info server running on port 3000
+[2023-11-03T06:56:29.592Z] info server running on port 3000
+[2023-11-03T06:56:40.550Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T06:56:40.642Z] info Get list purchases products by user
+[2023-11-03T06:56:44.650Z] info server running on port 3000
+[2023-11-03T06:56:51.800Z] info enter the endpoint GetUsers
+[2023-11-03T06:56:51.916Z] info Get List Users
+[2023-11-03T06:56:51.954Z] info enter the endpoint registerUser
+[2023-11-03T06:56:51.966Z] info User registed successfully
+[2023-11-03T06:56:51.981Z] info enter the endpoint registerUser
+[2023-11-03T06:56:51.997Z] info enter the endpoint registerUser
+[2023-11-03T06:56:52.012Z] info enter the endpoint registerUser
+[2023-11-03T06:56:52.028Z] info enter the endpoint registerUser
+[2023-11-03T06:56:52.044Z] info enter the endpoint login
+[2023-11-03T06:56:52.054Z] info correct credentials, seccion iniciada
+[2023-11-03T06:56:52.069Z] info enter the endpoint login
+[2023-11-03T06:56:52.085Z] info enter the endpoint login
+[2023-11-03T06:56:52.101Z] info enter the endpoint login
+[2023-11-03T06:56:52.116Z] info enter the endpoint getProducts
+[2023-11-03T06:56:52.129Z] info Get list products
+[2023-11-03T06:56:52.143Z] info enter the endpoint getOneProducts
+[2023-11-03T06:56:52.153Z] info Get a products him info
+[2023-11-03T06:56:52.168Z] info enter the endpoint registerProduct
+[2023-11-03T06:56:52.176Z] info Product registed successfully
+[2023-11-03T06:56:52.192Z] info enter the endpoint registerProduct
+[2023-11-03T06:56:52.206Z] info enter the endpoint registerProduct
+[2023-11-03T06:56:52.222Z] info enter the endpoint registerProduct
+[2023-11-03T06:56:52.239Z] info enter the endpoint registerProduct
+[2023-11-03T06:56:52.254Z] info enter the endpoint updateProduct
+[2023-11-03T06:56:52.262Z] info Product updated successfully
+[2023-11-03T06:56:52.277Z] info enter the endpoint updateProduct
+[2023-11-03T06:56:52.293Z] info enter the endpoint updateProduct
+[2023-11-03T06:56:52.310Z] info enter the endpoint updateProduct
+[2023-11-03T06:56:52.327Z] info enter the endpoint updateProduct
+[2023-11-03T06:56:52.354Z] info enter the endpoint deleteProduct
+[2023-11-03T06:56:52.362Z] info Product deleted successfully
+[2023-11-03T06:56:52.404Z] info enter the endpoint getPurchases
+[2023-11-03T06:56:52.424Z] info Get list all Purchases
+[2023-11-03T06:57:55.604Z] info server running on port 3000
+[2023-11-03T06:58:29.501Z] info server running on port 3000
+[2023-11-03T06:58:41.482Z] info server running on port 3000
+[2023-11-03T06:58:48.484Z] info server running on port 3000
+[2023-11-03T06:58:51.109Z] info server running on port 3000
+[2023-11-03T06:58:53.959Z] info server running on port 3000
+[2023-11-03T06:58:58.985Z] info server running on port 3000
+[2023-11-03T06:59:00.182Z] info server running on port 3000
+[2023-11-03T06:59:05.825Z] info server running on port 3000
+[2023-11-03T06:59:38.594Z] info server running on port 3000
+[2023-11-03T06:59:50.277Z] info server running on port 3000
+[2023-11-03T06:59:58.451Z] info server running on port 3000
+[2023-11-03T07:00:03.775Z] info server running on port 3000
+[2023-11-03T07:00:06.226Z] info server running on port 3000
+[2023-11-03T07:00:08.851Z] info server running on port 3000
+[2023-11-03T07:00:16.817Z] info enter the endpoint GetUsers
+[2023-11-03T07:00:16.947Z] info Get List Users
+[2023-11-03T07:00:16.988Z] info enter the endpoint registerUser
+[2023-11-03T07:00:17.005Z] info User registed successfully
+[2023-11-03T07:00:17.024Z] info enter the endpoint registerUser
+[2023-11-03T07:00:17.040Z] info enter the endpoint registerUser
+[2023-11-03T07:00:17.056Z] info enter the endpoint registerUser
+[2023-11-03T07:00:17.073Z] info enter the endpoint registerUser
+[2023-11-03T07:00:17.090Z] info enter the endpoint login
+[2023-11-03T07:00:17.101Z] info correct credentials, seccion iniciada
+[2023-11-03T07:00:17.119Z] info enter the endpoint login
+[2023-11-03T07:00:17.134Z] info enter the endpoint login
+[2023-11-03T07:00:17.153Z] info enter the endpoint login
+[2023-11-03T07:00:17.171Z] info enter the endpoint getProducts
+[2023-11-03T07:00:17.184Z] info Get list products
+[2023-11-03T07:00:17.199Z] info enter the endpoint getOneProducts
+[2023-11-03T07:00:17.209Z] info Get a products him info
+[2023-11-03T07:00:17.241Z] info enter the endpoint registerProduct
+[2023-11-03T07:00:17.250Z] info Product registed successfully
+[2023-11-03T07:00:17.264Z] info enter the endpoint registerProduct
+[2023-11-03T07:00:17.281Z] info enter the endpoint registerProduct
+[2023-11-03T07:00:17.297Z] info enter the endpoint registerProduct
+[2023-11-03T07:00:17.314Z] info enter the endpoint registerProduct
+[2023-11-03T07:00:17.332Z] info enter the endpoint updateProduct
+[2023-11-03T07:00:17.341Z] info Product updated successfully
+[2023-11-03T07:00:17.358Z] info enter the endpoint updateProduct
+[2023-11-03T07:00:17.374Z] info enter the endpoint updateProduct
+[2023-11-03T07:00:17.389Z] info enter the endpoint updateProduct
+[2023-11-03T07:00:17.405Z] info enter the endpoint updateProduct
+[2023-11-03T07:00:17.431Z] info enter the endpoint deleteProduct
+[2023-11-03T07:00:17.440Z] info Product deleted successfully
+[2023-11-03T07:00:17.465Z] info enter the endpoint getPurchases
+[2023-11-03T07:00:17.484Z] info Get list all Purchases
+[2023-11-03T07:00:18.095Z] info enter the endpoint getOneProducts
+[2023-11-03T07:00:18.178Z] info Get a products him info
+[2023-11-03T07:00:18.178Z] info Error getOneProduct: TypeError: Cannot read properties of null (reading 'length')
+[2023-11-03T07:00:56.545Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T07:00:56.584Z] info Get list purchases products by user
+[2023-11-03T07:00:58.031Z] info enter the endpoint historyPurchasesUser
+[2023-11-03T07:00:58.033Z] info Get list purchases products by user
+[2023-11-03T07:01:04.127Z] info enter the endpoint getOneProducts
+[2023-11-03T07:01:04.129Z] info Get a products him info
+[2023-11-03T07:01:04.130Z] info Error getOneProduct: TypeError: Cannot read properties of null (reading 'length')
+[2023-11-03T07:01:28.020Z] info enter the endpoint getOneProducts
+[2023-11-03T07:01:28.050Z] info Get a products him info
+[2023-11-03T07:01:28.050Z] info Error getOneProduct: TypeError: Cannot read properties of null (reading 'length')
+[2023-11-03T07:01:33.218Z] info enter the endpoint getOneProducts
+[2023-11-03T07:01:33.219Z] info Get a products him info
+[2023-11-03T07:01:33.219Z] info Error getOneProduct: TypeError: Cannot read properties of null (reading 'length')
+[2023-11-03T07:01:37.927Z] info enter the endpoint getOneProducts
+[2023-11-03T07:01:37.933Z] info Error getOneProduct: SequelizeDatabaseError: la sintaxis de entrada no es válida para tipo integer: «dsad»
+[2023-11-03T07:01:42.564Z] info enter the endpoint getOneProducts
+[2023-11-03T07:01:42.566Z] info Get a products him info
+[2023-11-03T07:01:42.566Z] info Error getOneProduct: TypeError: Cannot read properties of null (reading 'length')
+[2023-11-03T07:02:26.496Z] info server running on port 3000
+[2023-11-03T07:02:38.022Z] info server running on port 3000
+[2023-11-03T07:02:40.181Z] info enter the endpoint getOneProducts
+[2023-11-03T07:02:40.391Z] info Get a products him info
+[2023-11-03T07:02:44.375Z] info server running on port 3000
+[2023-11-03T07:02:49.762Z] info enter the endpoint GetUsers
+[2023-11-03T07:02:50.106Z] info Get List Users
+[2023-11-03T07:02:50.150Z] info enter the endpoint registerUser
+[2023-11-03T07:02:50.163Z] info User registed successfully
+[2023-11-03T07:02:50.176Z] info enter the endpoint registerUser
+[2023-11-03T07:02:50.192Z] info enter the endpoint registerUser
+[2023-11-03T07:02:50.207Z] info enter the endpoint registerUser
+[2023-11-03T07:02:50.222Z] info enter the endpoint registerUser
+[2023-11-03T07:02:50.239Z] info enter the endpoint login
+[2023-11-03T07:02:50.248Z] info correct credentials, seccion iniciada
+[2023-11-03T07:02:50.264Z] info enter the endpoint login
+[2023-11-03T07:02:50.278Z] info enter the endpoint login
+[2023-11-03T07:02:50.294Z] info enter the endpoint login
+[2023-11-03T07:02:50.309Z] info enter the endpoint getProducts
+[2023-11-03T07:02:50.322Z] info Get list products
+[2023-11-03T07:02:50.335Z] info enter the endpoint getOneProducts
+[2023-11-03T07:02:50.344Z] info Get a products him info
+[2023-11-03T07:02:50.359Z] info enter the endpoint registerProduct
+[2023-11-03T07:02:50.367Z] info Product registed successfully
+[2023-11-03T07:02:50.388Z] info enter the endpoint registerProduct
+[2023-11-03T07:02:50.403Z] info enter the endpoint registerProduct
+[2023-11-03T07:02:50.418Z] info enter the endpoint registerProduct
+[2023-11-03T07:02:50.434Z] info enter the endpoint registerProduct
+[2023-11-03T07:02:50.449Z] info enter the endpoint updateProduct
+[2023-11-03T07:02:50.457Z] info Product updated successfully
+[2023-11-03T07:02:50.472Z] info enter the endpoint updateProduct
+[2023-11-03T07:02:50.487Z] info enter the endpoint updateProduct
+[2023-11-03T07:02:50.503Z] info enter the endpoint updateProduct
+[2023-11-03T07:02:50.518Z] info enter the endpoint updateProduct
+[2023-11-03T07:02:50.544Z] info enter the endpoint deleteProduct
+[2023-11-03T07:02:50.552Z] info Product deleted successfully
+[2023-11-03T07:02:50.593Z] info enter the endpoint getPurchases
+[2023-11-03T07:02:50.613Z] info Get list all Purchases
+[2023-11-03T07:03:32.470Z] info enter the endpoint getProducts
+[2023-11-03T07:03:32.559Z] info Get list products
+[2023-11-03T07:03:55.783Z] info enter the endpoint getOneProducts
+[2023-11-03T07:03:55.824Z] info Error getOneProduct: SequelizeDatabaseError: la sintaxis de entrada no es válida para tipo integer: «all»
+[2023-11-03T07:04:01.619Z] info enter the endpoint getProducts
+[2023-11-03T07:04:01.630Z] info Get list products
+[2023-11-03T07:04:21.582Z] info server running on port 3000
+[2023-11-03T07:04:23.492Z] info enter the endpoint getProducts
+[2023-11-03T07:04:23.587Z] info Get list products
+[2023-11-03T07:04:43.325Z] info server running on port 3000
+[2023-11-03T07:04:47.602Z] info server running on port 3000
+[2023-11-03T07:04:50.879Z] info server running on port 3000
+[2023-11-03T07:04:52.396Z] info enter the endpoint getProducts
+[2023-11-03T07:04:52.486Z] info Get list products
+[2023-11-03T07:04:58.636Z] info server running on port 3000
+[2023-11-03T07:05:00.467Z] info enter the endpoint getProducts
+[2023-11-03T07:05:00.550Z] info Get list products
+[2023-11-03T07:05:18.610Z] info server running on port 3000
+[2023-11-03T07:05:18.987Z] info enter the endpoint getProducts
+[2023-11-03T07:05:19.299Z] info Get list products
+[2023-11-03T07:05:25.061Z] info enter the endpoint GetUsers
+[2023-11-03T07:05:25.065Z] info Get List Users
+[2023-11-03T07:05:28.170Z] info enter the endpoint getProducts
+[2023-11-03T07:05:28.172Z] info Get list products
+[2023-11-03T07:05:51.426Z] info server running on port 3000
+[2023-11-03T07:05:51.526Z] info enter the endpoint getPurchases
+[2023-11-03T07:05:51.721Z] info Get list all Purchases
+[2023-11-03T07:06:01.407Z] info enter the endpoint getPurchases
+[2023-11-03T07:06:01.411Z] info Get list all Purchases
+[2023-11-03T07:06:10.711Z] info enter the endpoint getPurchases
+[2023-11-03T07:06:10.714Z] info Get list all Purchases
+[2023-11-03T07:06:26.680Z] info server running on port 3000
+[2023-11-03T07:06:27.793Z] info server running on port 3000
+[2023-11-03T07:06:31.890Z] info enter the endpoint getPurchases
+[2023-11-03T07:06:31.999Z] info Get list all Purchases
+[2023-11-03T07:07:15.256Z] info enter the endpoint GetUsers
+[2023-11-03T07:07:15.379Z] info Get List Users
+[2023-11-03T07:07:15.417Z] info enter the endpoint registerUser
+[2023-11-03T07:07:15.430Z] info User registed successfully
+[2023-11-03T07:07:15.445Z] info enter the endpoint registerUser
+[2023-11-03T07:07:15.460Z] info enter the endpoint registerUser
+[2023-11-03T07:07:15.476Z] info enter the endpoint registerUser
+[2023-11-03T07:07:15.491Z] info enter the endpoint registerUser
+[2023-11-03T07:07:15.509Z] info enter the endpoint login
+[2023-11-03T07:07:15.519Z] info correct credentials, seccion iniciada
+[2023-11-03T07:07:15.536Z] info enter the endpoint login
+[2023-11-03T07:07:15.552Z] info enter the endpoint login
+[2023-11-03T07:07:15.571Z] info enter the endpoint login
+[2023-11-03T07:07:15.586Z] info enter the endpoint getProducts
+[2023-11-03T07:07:15.598Z] info Get list products
+[2023-11-03T07:07:15.613Z] info enter the endpoint getOneProducts
+[2023-11-03T07:07:15.621Z] info Get a products him info
+[2023-11-03T07:07:15.636Z] info enter the endpoint registerProduct
+[2023-11-03T07:07:15.644Z] info Product registed successfully
+[2023-11-03T07:07:15.657Z] info enter the endpoint registerProduct
+[2023-11-03T07:07:15.673Z] info enter the endpoint registerProduct
+[2023-11-03T07:07:15.688Z] info enter the endpoint registerProduct
+[2023-11-03T07:07:15.704Z] info enter the endpoint registerProduct
+[2023-11-03T07:07:15.720Z] info enter the endpoint updateProduct
+[2023-11-03T07:07:15.727Z] info Product updated successfully
+[2023-11-03T07:07:15.743Z] info enter the endpoint updateProduct
+[2023-11-03T07:07:15.757Z] info enter the endpoint updateProduct
+[2023-11-03T07:07:15.773Z] info enter the endpoint updateProduct
+[2023-11-03T07:07:15.789Z] info enter the endpoint updateProduct
+[2023-11-03T07:07:15.817Z] info enter the endpoint deleteProduct
+[2023-11-03T07:07:15.825Z] info Product deleted successfully
+[2023-11-03T07:07:15.867Z] info enter the endpoint getPurchases
+[2023-11-03T07:07:15.886Z] info Get list all Purchases
+[2023-11-03T07:08:06.845Z] info server running on port 3000

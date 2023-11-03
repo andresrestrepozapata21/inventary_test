@@ -7,7 +7,7 @@ const router = Router();
 import { registerUser, getUsers } from '../controllers/user.controller.js';
 
 /**
- * @api {GET} /api/products
+ * @api {GET} /api/users
  * @apiName getUsers
  * @apiGroup Users
  * @apiDescription Get a list of Users
@@ -17,12 +17,12 @@ import { registerUser, getUsers } from '../controllers/user.controller.js';
 router.get('/', getUsers);
 
 /**
- * @api {POST} /api/products
+ * @api {POST} /api/users
  * @apiName registerUser
- * @apiGroup Products
- * @apiDescription Get a list of products
+ * @apiGroup users
+ * @apiDescription Register user
  *
- * @apiSuccess message and data registed product
+ * @apiSuccess message and data registed User
  */
 router.post('/', registerUser);
 

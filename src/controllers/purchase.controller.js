@@ -130,7 +130,6 @@ export async function historyPurchasesUser(req, res) {
     try {
         // I capture the parameter that comes in the req and the data that I want to update that comes in the body of the req
         const { fk_id_user_purchase } = req.params;
-
         // I call and save the result of the findAll method, which is d sequelize
         const history = await Purchase.findAll({
             attributes: ['id_purchase', 'total_price_purchase', 'date_created_purchase'],
@@ -155,10 +154,16 @@ export async function historyPurchasesUser(req, res) {
         });
         // logger control proccess
         logger.info('Get list purchases products by user');
-        // I return the json with the message I want
-        return res.json({
-            data: history
-        });
+        // I validate product > 0, id exists in BD
+        if (history.length > 0) {
+            // I return the json with the message I want
+            return res.json({
+                data: history
+            });
+        } else {
+            //return 404 not Found
+            return res.sendStatus(404);
+        }
     } catch (e) {
         // logger control proccess
         logger.info('Error historyPurchasesUser: ' + e);

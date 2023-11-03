@@ -16,7 +16,7 @@ import { registerProduct, getProducts, getOneProduct, deleteProduct, updateProdu
 router.get('/', getProducts);
 
 /**
- * @api {GET} /api/products
+ * @api {GET} /api/products/:id_product
  * @apiName getOneProduct
  * @apiGroup Products
  * @apiDescription get a product
@@ -36,7 +36,7 @@ router.get('/:id_product', getOneProduct);
 router.post('/', registerProduct);
 
 /**
- * @api {PUT} /api/products
+ * @api {PUT} /api/products/:id_product
  * @apiName updateProduct
  * @apiGroup Products
  * @apiDescription to update a product
@@ -46,7 +46,7 @@ router.post('/', registerProduct);
 router.put('/:id_product', updateProduct);
 
 /**
- * @api {DELETE} /api/products
+ * @api {DELETE} /api/products/:id_product
  * @apiName deleteProduct
  * @apiGroup Products
  * @apiDescription to delete a product

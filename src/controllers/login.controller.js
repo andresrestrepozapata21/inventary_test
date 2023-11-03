@@ -12,6 +12,8 @@ export async function login(req, res) {
     try {
         // capture the id that comes in the parameters of the req
         const { email_user, password_user } = req.body;
+        // I validate req correct json
+        if (!email_user || !password_user) return res.sendStatus(400);
         // I call and save the result of the findAll method, which is d sequelize
         const login = await User.findAll({
             where: {

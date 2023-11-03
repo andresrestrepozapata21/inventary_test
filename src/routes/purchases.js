@@ -17,16 +17,6 @@ import { registerPurchase, historyPurchasesUser, getInvoice, getPurchases } from
 router.get('/all', getPurchases);
 
 /**
- * @api {POST} /api/purchases
- * @apiName registerPurchase
- * @apiGroup Purchases
- * @apiDescription To record purchase
- *
- * @apiSuccess message and data registed purchase
- */
-router.post('/', registerPurchase);
-
-/**
  * @api {POST} /api/purchases/user/:fk_id_user_purchase
  * @apiName historyPurchasesUser
  * @apiGroup Purchases
@@ -45,6 +35,16 @@ router.get('/user/:fk_id_user_purchase', historyPurchasesUser);
  * @apiSuccess {Array} Get purchase invoid
  */
 router.get('/invoice/:id_purchase', getInvoice);
+
+/**
+ * @api {POST} /api/purchases
+ * @apiName registerPurchase
+ * @apiGroup Purchases
+ * @apiDescription To record purchase
+ *
+ * @apiSuccess message and data registed purchase
+ */
+router.post('/', registerPurchase);
 
 // I export the router
 export default router;
